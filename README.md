@@ -13,8 +13,6 @@
 
 </p>
 
-## ⚡ Developer Dashboard
-
 <table>
 <tr>
 
