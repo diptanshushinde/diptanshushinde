@@ -27,3 +27,8 @@
 📚 Currently Learning  Deep Learning • Mathematical Statistics
 📄 License             MIT
 ```
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
