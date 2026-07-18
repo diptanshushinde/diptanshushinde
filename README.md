@@ -28,6 +28,7 @@
 🚀 Currently Building  Spam Email Detector
 🛠 IDE                 VS Code
 📚 Learning            Deep Learning • Mathematical Statistics
+```
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics"/>
