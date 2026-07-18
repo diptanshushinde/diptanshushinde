@@ -15,18 +15,21 @@
 
 ## ⚡ Developer Dashboard
 
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## ⚡ Developer Dashboard
+
 ```text
 🟢 Status              Online
 💻 Primary Language    Python
 🤖 Focus               Artificial Intelligence & Machine Learning
 🧠 Interests           Machine Learning • Statistics • Data Science
-📦 Public Projects     1
 🚀 Currently Building  Spam Email Detector
-🛠 IDE                  VS Code
-🌍 Location            Mumbai, India
-📚 Currently Learning  Deep Learning • Mathematical Statistics
-📄 License             MIT
-```
+🛠 IDE                 VS Code
+📚 Learning            Deep Learning • Mathematical Statistics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics"/>
