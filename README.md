@@ -42,8 +42,3 @@
 
 </tr>
 </table>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
