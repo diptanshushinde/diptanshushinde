@@ -32,6 +32,34 @@
 📚 Learning            Deep Learning • Mathematical Statistics
 ```
 
+<br>
+
+## 💻 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=typescript" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+</p>
+
 </td>
 
 <td width="55%">
