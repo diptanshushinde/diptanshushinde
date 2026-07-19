@@ -16,7 +16,9 @@
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="45%">
+
+<!-- Developer Dashboard -->
 
 ## ⚡ Developer Dashboard
 
@@ -29,6 +31,17 @@
 🛠 IDE                 VS Code
 📚 Learning            Deep Learning • Mathematical Statistics
 ```
+
+</td>
+
+<td width="55%">
+
+<img src="github-metrics.svg" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics"/>
