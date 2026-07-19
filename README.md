@@ -16,7 +16,7 @@
 <table>
 <tr>
 
-<td width="45%">
+<td width="42%">
 
 <!-- Developer Dashboard -->
 
@@ -62,7 +62,7 @@
 
 </td>
 
-<td width="55%">
+<td width="58%">
 
 <img src="github-metrics.svg" width="100%"/>
 
