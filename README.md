@@ -28,7 +28,7 @@
 🤖 Focus               Artificial Intelligence & Machine Learning
 🧠 Interests           Machine Learning • Statistics • Data Science
 🚀 Currently Building  Spam Email Detector
-🛠 IDE                  VS Code
+🛠  IDE                 VS Code
 📚 Learning            Deep Learning • Mathematical Statistics
 ```
 
