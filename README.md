@@ -27,7 +27,7 @@
 💻 Primary Language    Python
 🤖 Focus               Artificial Intelligence & Machine Learning
 🧠 Interests           Machine Learning • Statistics • Data Science
-🚀 Currently Building  Spam Email Detector
+🚀 Currently Building  StockInsight AI
 🛠  IDE                 VS Code
 📚 Learning            Deep Learning • Mathematical Statistics
 ```
