@@ -27,7 +27,7 @@
 💻 Primary Language    Python
 🤖 Focus               Artificial Intelligence & Machine Learning
 🧠 Interests           Machine Learning • Statistics • Data Science
-🚀 Currently Building  StockInsight AI v1.0.0
+🚀 Currently Building  StockInsight AI v1.0.0 (Blog coming soon...)
 🛠  IDE                 VS Code / Cursor
 📚 Learning            Deep Learning • Mathematical Statistics
 ```
