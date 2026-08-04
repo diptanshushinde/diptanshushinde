@@ -25,9 +25,9 @@
 ```text
 🟢 Status              Online
 💻 Primary Language    Python
-🤖 Focus               Artificial Intelligence & Machine Learning
-🧠 Interests           Machine Learning • Statistics • Data Science
-🚀 Currently Building  Personal Portfolio Website (Under Development...)
+🤖 Focus               Machine Learning & Robotics
+🧠 Interests           Machine Learning • Statistics • DS
+🚀 Currently Building  Personal Portfolio GitHub
 🛠  IDE                 VS Code / Cursor
 📚 Learning            Deep Learning • Mathematical Statistics
 ```
